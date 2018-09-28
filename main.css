@@ -1,5 +1,7 @@
 body{
  background-color: #fff;
+ overflow-x: hidden;
+
 
 }
 .strip{
@@ -34,6 +36,37 @@ a:hover{
 img{
     opacity: 0.8;
 }
+
+
+h1{
+    color: rgb(251, 90,3);
+}
+
+
+#about{
+    widows: 100%;
+    min-height: 500px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.content{
+    width:40%;
+    padding:10px;
+    color: darkslategrey;
+    line-height: 1.5em;
+    font-size: 18px;
+    text-align: justify;
+    float: left;
+}
+#animals{
+    widows: 100%;
+    min-height: 500px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+
 footer{
     height: 100px;
     padding: 10px;
