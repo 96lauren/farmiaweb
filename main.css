@@ -65,6 +65,16 @@ h1{
     margin-bottom: 10px;
 }
 
+#contacts{
+    widows: 100%;
+    min-height: 500px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+label{
+    color:rgb(251, 90,3);
+}
+
 
 
 footer{
