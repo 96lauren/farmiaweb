@@ -31,9 +31,7 @@ a:hover{
     color:rgb(251, 90,3);
 }
 
-.images{
-    
-}
+
 img{
     opacity: 0.8;
 }
@@ -67,6 +65,9 @@ h1{
 }
 
 #contacts{
+    background-image: url(black.png);
+    background-size:cover;
+    background-repeat: no-repeat;
     widows: 100%;
     min-height: 500px;
     padding: 20px;
@@ -112,8 +113,9 @@ i{
 input{
     width:40%;
     border-style: none;
-    border-radius:8px;
-    border: 1px solid rgba(0,0,0,0.3);
+    border:none;
+    border-bottom: 1px solid rgb(251, 90,3);
     padding: 5px;
+    background-color: none;
 
 }
