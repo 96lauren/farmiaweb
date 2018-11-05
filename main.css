@@ -2,6 +2,7 @@ body{
  background-color: #fff;
  overflow-x: hidden;
  font-family: 'roboto', sans-serif;
+ padding:2px;
 
 
 }
@@ -66,16 +67,16 @@ h1{
 #animals{
     widows: 100%;
     min-height: 500px;
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 10px;
 }
 
-#contacts{
+#services{
     /* background-image: url(black.png); */
     background-size:cover;
     background-repeat: no-repeat;
     widows: 100%;
-    min-height: 500px;
+    min-height: 400px;
     padding: 20px;
     margin-bottom: 10px;
 }
